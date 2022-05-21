@@ -50,7 +50,7 @@ depending on whether you want to see test coverage and how verbose the output yo
 ## Installation & Run
 ```bash
 # Download this project
-go get github.com/mingrammer/go-todo-rest-api-example
+git clone https://github.com/L4TN/scicrop-geoapp.git
 ```
 
 Before running API server, you should set the database config with yours or set the your database config with my values on [config.go](https://github.com/mingrammer/go-todo-rest-api-example/blob/master/config/config.go)
