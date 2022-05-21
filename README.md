@@ -6,6 +6,38 @@ This repository has the objective of elaborating and solving the challenge propo
 A RESTful API example for simple todo application with Go
 It is a just simple tutorial or example for making simple RESTful API with Go using **gorilla/mux** (A nice mux library) and **gorm** (An ORM for Go)
 
+## Install Golang
+Make sure you have Go 1.18 or higher installed.
+
+https://golang.org/doc/install
+
+## Environment Config
+Set-up the standard Go environment variables according to latest guidance (see https://golang.org/doc/install#install).
+
+## Install Dependencies
+From the project root, run:
+```
+go build ./...
+go test ./...
+go mod tidy
+```
+
+## Testing
+From the project root, run:
+```
+go test ./...
+```
+or
+```
+go test ./... -cover
+```
+or
+```
+go test -v ./... -cover
+```
+depending on whether you want to see test coverage and how verbose the output you want.
+
+
 ## Installation & Run
 ```bash
 # Download this project
