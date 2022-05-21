@@ -123,7 +123,7 @@ go build
 - [ ] Support Authentication with user and Bearer JSON for securing the APIs.
 - [ ] Unit Tests.
 - [ ] Make docs with GoDoc.
-- [ ] Building a automatic deployment process with Makefile.
+- [ ] Building a automatic deployment process with Makefile and GitHub Pages Deploy Action 🚀 .
 
 ## Clean Development pratices and Patterns
 This section describes the set of practices in writing software for greater code readability and maintainability based on the Clean code book that were applied in this project:
