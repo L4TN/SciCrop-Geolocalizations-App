@@ -124,4 +124,4 @@ go build
 - [ ] Building a deployment process with Makefile.
 
 ## Clean Development pratices and Patterns
-This section describes the set of practices in writing software for greater code readability and maintainability based on the Clean code book.
+This section describes the set of practices in writing software for greater code readability and maintainability based on the Clean code book that were applied in this project:
