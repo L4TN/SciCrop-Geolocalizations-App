@@ -1,4 +1,4 @@
-# SciCrop-Geolocalizations-App
+# SciCrop Geolocalizations-App Challenge
 This repository has the objective of elaborating and solving the challenge proposed by the company SciCrop by creating an application that meets the requirements set out below:
 
 ## Software Architecture & System Architecture
