@@ -4,8 +4,6 @@ This repository has the objective of elaborating and solving the challenge propo
 ## Software Architecture & System Architecture
 ![Microservices Image](https://user-images.githubusercontent.com/75400361/169652789-c16708cb-dd6e-4abb-b030-1d6dc566ace9.png)
 A RESTful API example for simple todo application with Go
-
-## Clean Development pratices and Patterns
 It is a just simple tutorial or example for making simple RESTful API with Go using **gorilla/mux** (A nice mux library) and **gorm** (An ORM for Go)
 
 ## Installation & Run
@@ -90,3 +88,6 @@ go build
 - [ ] ORM like Gorm to interact with a Relational-Database.
 - [ ] Make docs with GoDoc.
 - [ ] Building a deployment process with Makefile.
+
+## Clean Development pratices and Patterns
+This section describes the set of practices in writing software for greater code readability and maintainability based on the Clean code book.
