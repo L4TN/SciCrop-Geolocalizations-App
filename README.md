@@ -115,13 +115,15 @@ go build
 
 ## Todo
 
+- [ ] Make modeling Database with MER/DER and Normalization.
+- [ ] Construct Front-End CRUD with Leaflet.js
 - [x] Support basic REST APIs.
 - [x] Organize the code with packages
-- [ ] Support Authentication with user for securing the APIs.
-- [ ] Unit Tests.
 - [ ] ORM like Gorm to interact with a Relational-Database.
+- [ ] Support Authentication with user and Bearer JSON for securing the APIs.
+- [ ] Unit Tests.
 - [ ] Make docs with GoDoc.
-- [ ] Building a deployment process with Makefile.
+- [ ] Building a automatic deployment process with Makefile.
 
 ## Clean Development pratices and Patterns
 This section describes the set of practices in writing software for greater code readability and maintainability based on the Clean code book that were applied in this project:
