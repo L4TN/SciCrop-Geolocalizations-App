@@ -1,6 +1,13 @@
 # SciCrop Geolocalizations-App Challenge
 This repository has the objective of elaborating and solving the challenge proposed by the company SciCrop by creating an application that meets the requirements set out below:
 
+| Functional Requiriments                | Non-Functional Requiriments                                   | 
+| :----------------------:               | :----------------------------------------------------------:  | 
+| User can register a new Location       | The system must run on web platform (Portability)             | 
+| List     Locations                     | The system must use a Javascript library (Implementation )    |                                               
+| View Locations in Map                  | the system must run with the SQL Database. (Interoperability) | 
+
+
 ## Software Architecture & System Architecture
 ![Microservices Image](https://user-images.githubusercontent.com/75400361/169652789-c16708cb-dd6e-4abb-b030-1d6dc566ace9.png)
 A RESTful API example for simple todo application with Go
