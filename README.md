@@ -76,7 +76,7 @@ go build
 
 sqlite3
 https://www.sqlite.org/download.html
-
+https://www.prisma.io/dataguide/sqlite/setting-up-a-local-sqlite-database#setting-up-sqlite-on-linux
 
 # API Endpoint : http://127.0.0.1:3000
 ```
