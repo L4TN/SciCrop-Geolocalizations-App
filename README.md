@@ -78,6 +78,8 @@ sqlite3
 https://www.sqlite.org/download.html
 https://www.prisma.io/dataguide/sqlite/setting-up-a-local-sqlite-database#setting-up-sqlite-on-linux
 https://linuxhint.com/install_sqlite_browser_ubuntu_1804/
+https://github.com/stefanocudini/leaflet-list-markers
+https://codewithmukesh.com/blog/implementing-crud-in-golang-rest-api/#Prerequisites
 
 # API Endpoint : http://127.0.0.1:3000
 ```
