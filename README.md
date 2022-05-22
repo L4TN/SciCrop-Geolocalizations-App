@@ -74,6 +74,10 @@ cd go-todo-rest-api-example
 go build
 ./go-todo-rest-api-example
 
+sqlite3
+https://www.sqlite.org/download.html
+
+
 # API Endpoint : http://127.0.0.1:3000
 ```
 
